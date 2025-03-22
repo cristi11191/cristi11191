@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristi11191&label=Profile%20views&color=0e75b6&style=flat" alt="cristi11191" /> </p>
 
-- 🔭 I’m currently working on **Student App**
+- 🔭 I’m currently working on my **Bachelor Project**
 
-- 🌱 I’m currently learning **React, Flask, Laravel**
+- 🌱 I’m currently learning **React, Flask**
 
 - 📫 How to reach me **druta.cristin@gmail.com**
 
